@@ -27,7 +27,7 @@
     },
     {
       "id": "custom-types",
-      "versionRange": "^0.15.24",
+      "versionRange": "^0.17.10",
       "additionalData": {}
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "id": "paper",
-      "versionRange": "^1.2.9",
+      "versionRange": "^3.6.4",
       "additionalData": {}
     },
     {
       "id": "lapiz",
-      "versionRange": "^0.1.11",
+      "versionRange": "^0.4.44",
       "additionalData": {}
     },
     {
